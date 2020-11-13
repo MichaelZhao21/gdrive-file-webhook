@@ -1,0 +1,14 @@
+{
+  "name": "gdrive-file-webhook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Michael <michaelzhao314@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "googleapis": "^64.0.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
